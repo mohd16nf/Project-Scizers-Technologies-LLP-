@@ -1,6 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+Alright to run this project you can either clone this repo and then start it or if you are going to create a seperately folder for this project then follow these steps
+1. Create these following components 1- Navbar, 2- ImageSlider 3- Lightbox , 4- Heropage , 5- Options , 6- Services and 7- Footer
+2. keep all the components in the same component folder so there will be error for importing these components
+3. All the images are there in the public folder and those have been named accordingly like image of card are named cardimg and imageslidee images as slide or slider then there are other four vector images which are being used in Options component
+4. Install these dependencies 1- autoprefixer 2- postcss 3- tailwindcss and 4- react-icons these will make sure that you dont get any error related to dependencies installation.
+5. once all these steps are completed then simply import all the components in main file paje.js and run the application.
+
 
 First, run the development server:
 
